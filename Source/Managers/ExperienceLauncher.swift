@@ -4,7 +4,7 @@
 
 import UIKit
 import CPEData
-import ReachabilitySwift
+import Reachability
 
 open  class ExperienceLauncher {
 
